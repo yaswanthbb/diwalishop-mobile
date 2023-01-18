@@ -17,9 +17,9 @@ margin: 0;
 }
 .bottom-container{
     background-color: #e6f6ff;
+    height: 70vh;
     background-size: cover;
     padding: 15px;
-    height:70vh;
 }
 .card{
     background-color: white;
