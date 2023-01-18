@@ -19,6 +19,7 @@ margin: 0;
     background-color: #e6f6ff;
     background-size: cover;
     padding: 15px;
+    height:70vh;
 }
 .card{
     background-color: white;
